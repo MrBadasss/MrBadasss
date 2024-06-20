@@ -44,6 +44,7 @@
 <h3 align="left">My TryHackMe Badge:</h3>
 <p align="left">
 <img src="https://tryhackme-badges.s3.amazonaws.com/MrBadasss.png" alt="TryHackMe Badge">
+<script src="https://tryhackme.com/badge/2878111"></script>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrbadasss&show_icons=true&locale=en&layout=compact" alt="mrbadasss" /></p>
