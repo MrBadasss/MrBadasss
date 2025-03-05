@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Md. Sakhawat Hossain.</h1>
-<h3 align="center">A Cybersecurity Enthusiast from Bangladesh.</h3>
+<h3 align="center">A Cybersecurity Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbadasss&label=Profile%20views&color=0e75b6&style=flat" alt="mrbadasss" /> </p>
 
@@ -12,8 +12,6 @@
 - I’m currently learning **the fundamental topics of cybersecurity.**
 
 - How to reach me **https://skhwt.wordpress.com/contact/**
-
-- ⚡ Fun fact **Still I'm a NOOB!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,6 +41,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrbadasss&show_icons=true&locale=en&layout=compact" alt="mrbadasss" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrbadasss&show_icons=true&locale=en" alt="mrbadasss" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrbadasss&" alt="mrbadasss" /></p>
 <p> <img src="https://tryhackme-badges.s3.amazonaws.com/MrBadasss.png" alt="TryHackMe Badge" /></p>
