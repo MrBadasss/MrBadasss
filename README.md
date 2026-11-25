@@ -18,7 +18,7 @@ Final-year Computer Science and Engineering student at Islamic University, Bangl
 
 - CTF player with Hidden Investigations — NahamCon CTF 2026, rank #11; onsite CTF at EWU National RoboFest 2026, 11th in the final round
 - Bug bounty hunting on Intigriti
-- General Secretary, IU Cybersecurity Club · Webmaster, IEEE IU Computer Society · Cybersecurity Secretary, IU IT Society
+- General Secretary, IU Cybersecurity Club · Former Webmaster, IEEE IU Computer Society · Cybersecurity Secretary, IU IT Society
 - Event Management, APIsec U Bangladesh
 - Learning security research and responsible disclosure
 
