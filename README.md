@@ -1,22 +1,25 @@
 # Hi, I'm Md. Sakhawat Hossain
 
-Developer from Bangladesh, learning cybersecurity by building things and breaking them.
+Final-year Computer Science and Engineering student at Islamic University, Bangladesh. I learn cybersecurity by building things and breaking them.
 
-## What I build
+## Projects
 
-- **RailMate BD** — Bangladesh Railway split-ticket finder and seat watch, Android and web
-- **Sonar Horin** — Government job preparation app: BCS, Bank, Primary and NTRCA, with timed model tests and live exams
-- **MessMate** — Mess management app: meals, bazar, expenses and monthly settlement
-- **Freedium Pro** — Android Medium reader with a paywall fallback and reader tools
-- **IU CSC CTF platform** — Multi-event CTF platform at ctf.iucsc.org, built on CTFd with a custom theme and archive
-- **Senitel** — Snort IDS and ModSecurity monitoring for a VPS, with email and Telegram alerts and UFW auto-blocking
-- **NumSpy** — Phone number lookup web service and Telegram bot
-- **iucsc.dev** — Department portal for the CSE department of Islamic University
+- **RailMate BD** — Bangladesh Railway split-ticket finder and seat watch, Android app and web
+- **Sonar Horin** — Government job preparation platform: BCS, Bank, Primary and NTRCA — [sonarhorin.dpdns.org](https://sonarhorin.dpdns.org)
+- **MessMate** — Mess management app for shared meals and costs — [ssciu.qzz.io](https://ssciu.qzz.io)
+- **Freedium Pro** — Android Medium reader with a paywall fallback — [GitHub](https://github.com/MrBadasss/FreediumPro)
+- **IU CSC CTF platform** — Multi-event CTF platform for the club — [ctf.iucsc.org](https://ctf.iucsc.org)
+- **IU Cybersecurity Club website** — Club website and member portal — [iucsc.org](https://iucsc.org)
+- **Senitel** — Snort IDS and ModSecurity monitoring with email and Telegram alerts and auto-blocking — [GitHub](https://github.com/MrBadasss/Senitel)
+- **NumSpy** — Phone number lookup web service and Telegram bot — [numspy.mrbadasss.dev](https://numspy.mrbadasss.dev)
+- **Department portal** — Website for the CSE department of Islamic University — [iucsc.dev](https://iucsc.dev)
 
-## Security
+## CTF & Community
 
+- CTF player with Hidden Investigations — NahamCon CTF 2026, rank #11; onsite CTF at EWU National RoboFest 2026, 11th in the final round
 - Bug bounty hunting on Intigriti
-- CTF player with Hidden Investigations — NahamCon CTF 2026, rank #11
+- General Secretary, IU Cybersecurity Club · Webmaster, IEEE IU Computer Society · Cybersecurity Secretary, IU IT Society
+- Event Management, APIsec U Bangladesh
 - Learning security research and responsible disclosure
 
 ## Tech
