@@ -6,7 +6,7 @@ Final-year Computer Science and Engineering student at Islamic University, Bangl
 
 - **RailMate BD:** Bangladesh Railway split-ticket finder and seat watch, Android app and web
 - **Sonar Horin:** government job preparation platform for BCS, Bank, Primary and NTRCA, [sonarhorin.dpdns.org](https://sonarhorin.dpdns.org)
-- **MessMate:** mess management app for shared meals and costs, [ssciu.qzz.io](https://ssciu.qzz.io)
+- **MessMate:** complete mess management for shared student housing, meals, bazar, deposits, expenses and monthly settlement, [ssciu.qzz.io](https://ssciu.qzz.io)
 - **Freedium Pro:** Android Medium reader with a paywall fallback, [GitHub](https://github.com/MrBadasss/FreediumPro)
 - **IU CSC CTF platform:** multi-event CTF platform for the club, [ctf.iucsc.org](https://ctf.iucsc.org)
 - **IU Cybersecurity Club website:** club website and member portal, [iucsc.org](https://iucsc.org)
