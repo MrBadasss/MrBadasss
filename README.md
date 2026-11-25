@@ -1,6 +1,6 @@
 # Hi, I'm Md. Sakhawat Hossain
 
-Software developer and cybersecurity researcher from Bangladesh. I build apps people actually use, and I hunt for vulnerabilities in the systems around them.
+Developer from Bangladesh, learning cybersecurity by building things and breaking them.
 
 ## What I build
 
@@ -17,7 +17,7 @@ Software developer and cybersecurity researcher from Bangladesh. I build apps pe
 
 - Bug bounty hunting on Intigriti
 - CTF player with Hidden Investigations — NahamCon CTF 2026, rank #11
-- Security research and responsible disclosure
+- Learning security research and responsible disclosure
 
 ## Tech
 
