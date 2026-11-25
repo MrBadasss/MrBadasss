@@ -4,25 +4,28 @@ Final-year Computer Science and Engineering student at Islamic University, Bangl
 
 ## Projects
 
-- **RailMate BD** — Bangladesh Railway split-ticket finder and seat watch, Android app and web
-- **Sonar Horin** — Government job preparation platform: BCS, Bank, Primary and NTRCA — [sonarhorin.dpdns.org](https://sonarhorin.dpdns.org)
-- **MessMate** — Mess management app for shared meals and costs — [ssciu.qzz.io](https://ssciu.qzz.io)
-- **Freedium Pro** — Android Medium reader with a paywall fallback — [GitHub](https://github.com/MrBadasss/FreediumPro)
-- **IU CSC CTF platform** — Multi-event CTF platform for the club — [ctf.iucsc.org](https://ctf.iucsc.org)
-- **IU Cybersecurity Club website** — Club website and member portal — [iucsc.org](https://iucsc.org)
-- **Senitel** — Snort IDS and ModSecurity monitoring with email and Telegram alerts and auto-blocking — [GitHub](https://github.com/MrBadasss/Senitel)
-- **NumSpy** — Phone number lookup web service and Telegram bot — [numspy.mrbadasss.dev](https://numspy.mrbadasss.dev)
-- **Department portal** — Website for the CSE department of Islamic University — [iucsc.dev](https://iucsc.dev)
+- **RailMate BD:** Bangladesh Railway split-ticket finder and seat watch, Android app and web
+- **Sonar Horin:** government job preparation platform for BCS, Bank, Primary and NTRCA, [sonarhorin.dpdns.org](https://sonarhorin.dpdns.org)
+- **MessMate:** mess management app for shared meals and costs, [ssciu.qzz.io](https://ssciu.qzz.io)
+- **Freedium Pro:** Android Medium reader with a paywall fallback, [GitHub](https://github.com/MrBadasss/FreediumPro)
+- **IU CSC CTF platform:** multi-event CTF platform for the club, [ctf.iucsc.org](https://ctf.iucsc.org)
+- **IU Cybersecurity Club website:** club website and member portal, [iucsc.org](https://iucsc.org)
+- **Senitel:** Snort IDS and ModSecurity monitoring with email and Telegram alerts and auto-blocking, [GitHub](https://github.com/MrBadasss/Senitel)
+- **NumSpy:** phone number lookup web service and Telegram bot, [numspy.mrbadasss.dev](https://numspy.mrbadasss.dev)
+- **Department portal:** website for the CSE department of Islamic University, [iucsc.dev](https://iucsc.dev)
 
 ## CTF
 
-- CTF player with Hidden Investigations — NahamCon CTF 2026, rank #11; onsite CTF at EWU National RoboFest 2026, 11th in the final round
+- NahamCon CTF 2026, rank #11; onsite CTF at EWU National RoboFest 2026, 11th in the final round
 - Bug bounty hunting on Intigriti
 - Learning security research and responsible disclosure
 
 ## Community
 
-- General Secretary, IU Cybersecurity Club · Former Webmaster, IEEE IU Computer Society · Cybersecurity Secretary, IU IT Society
+- General Secretary, IU Cybersecurity Club
+- Former Webmaster, IEEE IU Computer Society
+- Cybersecurity Secretary, IU IT Society
+- CTF Member, Hidden Investigations
 - Event Management, APIsec U Bangladesh
 
 ## Tech
